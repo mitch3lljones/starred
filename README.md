@@ -8,6 +8,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Others](#others)
@@ -33,6 +34,10 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
+## Dockerfile 
+
+- [mikeal/publish-to-github-action](https://github.com/mikeal/publish-to-github-action) - A GitHub Action to push any local file changes, including new files, back to master
+
 ## Go 
 
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
@@ -54,6 +59,7 @@
 
 ## JavaScript 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code themes
 - [arcticicestudio/nord-hyper](https://github.com/arcticicestudio/nord-hyper) - An arctic, north-bluish clean and elegant Hyper theme plugin.
 - [klaussinani/hyper-pokemon](https://github.com/klaussinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
