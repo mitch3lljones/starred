@@ -76,6 +76,7 @@
 
 ## Python 
 
+- [swar/nba_api](https://github.com/swar/nba_api) - An API Client package to access the APIs for NBA.com
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book
