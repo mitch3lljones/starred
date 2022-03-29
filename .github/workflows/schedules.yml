@@ -2,7 +2,7 @@ name: update starred
 on:
   workflow_dispatch:
   schedule:
-  - cron: 0 6 * * *
+  - cron: 0 8 * * FRI
 jobs:
   awesome-stars:
     name: update starred
