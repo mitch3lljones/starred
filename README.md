@@ -65,6 +65,7 @@
 
 ## JavaScript 
 
+- [pvpoke/pvpoke](https://github.com/pvpoke/pvpoke) - Open-Source Battle Simulator, Rankings & Team Building for Pokemon GO PvP
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code themes
 - [arcticicestudio/nord-hyper](https://github.com/arcticicestudio/nord-hyper) - An arctic, north-bluish clean and elegant Hyper theme plugin.
