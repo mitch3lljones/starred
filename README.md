@@ -65,6 +65,7 @@
 
 ## JavaScript 
 
+- [RMCob/homebridge-wyze-connected-home-op](https://github.com/RMCob/homebridge-wyze-connected-home-op) - Wyze Connected Home plugin for Homebridge with support for the Wyze Outdoor Plug
 - [pvpoke/pvpoke](https://github.com/pvpoke/pvpoke) - Open-Source Battle Simulator, Rankings & Team Building for Pokemon GO PvP
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code themes
@@ -132,6 +133,8 @@
 
 ## TypeScript 
 
+- [Sunoo/homebridge-camera-ffmpeg](https://github.com/Sunoo/homebridge-camera-ffmpeg) - Homebridge Plugin Providing FFmpeg-based Camera Support
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
