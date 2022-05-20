@@ -12,6 +12,7 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [JavaScript](#javascript)
+- [Mustache](#mustache)
 - [Others](#others)
 - [Python](#python)
 - [R](#r)
@@ -77,8 +78,13 @@
 - [RyanFitzgerald/devfolio](https://github.com/RyanFitzgerald/devfolio) - A modern and production-ready personal portfolio + blog template built with GatsbyJs and TailwindCSS
 - [monovertex/ygorganizer](https://github.com/monovertex/ygorganizer) - Source for http://ygorganizer.com
 
+## Mustache 
+
+- [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
+
 ## Others 
 
+- [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) - A list of GOG Galaxy 2.0 integrations and upcoming features
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [patrickshox/Mojave-Dark-RStudio-Theme](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme) - A Total-IDE Dark RStudio Theme inspired by Apple's dark aestheticcc.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
