@@ -14,6 +14,7 @@
 - [JavaScript](#javascript)
 - [Mustache](#mustache)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -90,6 +91,10 @@
 - [patrickshox/Mojave-Dark-RStudio-Theme](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme) - A Total-IDE Dark RStudio Theme inspired by Apple's dark aestheticcc.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
+
+## PowerShell 
+
+- [nyanhp/AzureCloudGaming](https://github.com/nyanhp/AzureCloudGaming) - Cloud gaming on Azure powered by NVidia Tesla and PowerShell
 
 ## Python 
 
