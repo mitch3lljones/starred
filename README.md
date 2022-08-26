@@ -23,7 +23,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 
 ## C 
 
@@ -151,7 +151,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
-## Vim script 
+## Vim Script 
 
 - [vv9k/vim-github-dark](https://github.com/vv9k/vim-github-dark) - A dark GitHub theme for Vim and NeoVim
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
