@@ -74,7 +74,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code themes
 - [arcticicestudio/nord-hyper](https://github.com/arcticicestudio/nord-hyper) - An arctic, north-bluish clean and elegant Hyper theme plugin.
-- [klaussinani/hyper-pokemon](https://github.com/klaussinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
+- [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 - [DHedgecock/radical-vscode](https://github.com/DHedgecock/radical-vscode) - A dark theme for radical hacking inspired by retro futuristic design.
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [RyanFitzgerald/devfolio](https://github.com/RyanFitzgerald/devfolio) - A modern and production-ready personal portfolio + blog template built with GatsbyJs and TailwindCSS
