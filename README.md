@@ -36,6 +36,7 @@
 
 ## C++ 
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [WagicProject/wagic](https://github.com/WagicProject/wagic) - Wagic the Homebrew
 
 ## Dart 
