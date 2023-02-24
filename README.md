@@ -50,6 +50,7 @@
 
 ## Go 
 
+- [Parallels/docker-machine-parallels](https://github.com/Parallels/docker-machine-parallels) - Parallels driver for Docker Machine https://github.com/docker/machine
 - [Azure/azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go) - This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:
 - [Azure-Samples/azure-sdk-for-go-samples](https://github.com/Azure-Samples/azure-sdk-for-go-samples) - Examples of how to utilize Azure services from Go.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
@@ -71,6 +72,7 @@
 
 ## JavaScript 
 
+- [jfarmer08/homebridge-wyze-smart-home](https://github.com/jfarmer08/homebridge-wyze-smart-home) - Wyze Smart Home plugin for Homebridge.
 - [RMCob/homebridge-wyze-connected-home-op](https://github.com/RMCob/homebridge-wyze-connected-home-op) - Wyze Connected Home plugin for Homebridge with support for the Wyze Outdoor Plug
 - [pvpoke/pvpoke](https://github.com/pvpoke/pvpoke) - Open-Source Battle Simulator, Rankings & Team Building for Pokemon GO PvP
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -100,6 +102,8 @@
 
 ## Python 
 
+- [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
+- [shauntarves/wyze-sdk](https://github.com/shauntarves/wyze-sdk) - A modern Python client for controlling Wyze devices.
 - [swar/nba_api](https://github.com/swar/nba_api) - An API Client package to access the APIs for NBA.com
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -128,6 +132,7 @@
 
 ## Shell 
 
+- [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 - [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
 - [b0o/tmux-autoreload](https://github.com/b0o/tmux-autoreload) - 🧐 Automatically reload your tmux config file on change
@@ -152,6 +157,7 @@
 
 ## TypeScript 
 
+- [RMCob/homebridge-wyze-robovac](https://github.com/RMCob/homebridge-wyze-robovac) - This plug-in provides rudimentary control for a Wyze Robot Vacuum.
 - [Sunoo/homebridge-camera-ffmpeg](https://github.com/Sunoo/homebridge-camera-ffmpeg) - Homebridge Plugin Providing FFmpeg-based Camera Support
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
