@@ -102,6 +102,7 @@
 
 ## Python 
 
+- [Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder](https://github.com/Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder) - Legilimens is a tool to help you find your last few missing collectibles in Hogwarts Legacy and finally get that 100% completion. Works with field guide pages, collection chests, demiguise statues, vi
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [shauntarves/wyze-sdk](https://github.com/shauntarves/wyze-sdk) - A modern Python client for controlling Wyze devices.
 - [swar/nba_api](https://github.com/swar/nba_api) - An API Client package to access the APIs for NBA.com
