@@ -11,6 +11,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
+- [HTML](#html)
 - [JavaScript](#javascript)
 - [Mustache](#mustache)
 - [Others](#others)
@@ -69,6 +70,10 @@
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [linkedin/goavro](https://github.com/linkedin/goavro) - 
 - [joncalhoun/algorithmswithgo.com](https://github.com/joncalhoun/algorithmswithgo.com) - Code for the Algorithms with Go course
+
+## HTML 
+
+- [clessg/pokesprite](https://github.com/clessg/pokesprite) - Pokémon icon database and sprite sheet generator. Based on https://github.com/msikma/pokesprite.
 
 ## JavaScript 
 
@@ -140,7 +145,7 @@
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
-- [arcticicestudio/nord-tmux](https://github.com/arcticicestudio/nord-tmux) - An arctic, north-bluish clean and elegant tmux color theme.
+- [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
