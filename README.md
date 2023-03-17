@@ -51,6 +51,7 @@
 
 ## Go 
 
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [Parallels/docker-machine-parallels](https://github.com/Parallels/docker-machine-parallels) - Parallels driver for Docker Machine https://github.com/docker/machine
 - [Azure/azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go) - This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:
 - [Azure-Samples/azure-sdk-for-go-samples](https://github.com/Azure-Samples/azure-sdk-for-go-samples) - Examples of how to utilize Azure services from Go.
@@ -82,7 +83,7 @@
 - [pvpoke/pvpoke](https://github.com/pvpoke/pvpoke) - Open-Source Battle Simulator, Rankings & Team Building for Pokemon GO PvP
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code themes
-- [arcticicestudio/nord-hyper](https://github.com/arcticicestudio/nord-hyper) - An arctic, north-bluish clean and elegant Hyper theme plugin.
+- [nordtheme/hyper](https://github.com/nordtheme/hyper) - An arctic, north-bluish clean and elegant Hyper theme plugin.
 - [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [RyanFitzgerald/devfolio](https://github.com/RyanFitzgerald/devfolio) - A modern and production-ready personal portfolio + blog template built with GatsbyJs and TailwindCSS
