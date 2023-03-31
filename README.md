@@ -12,6 +12,7 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Mustache](#mustache)
 - [Others](#others)
@@ -75,6 +76,10 @@
 ## HTML 
 
 - [clessg/pokesprite](https://github.com/clessg/pokesprite) - Pokémon icon database and sprite sheet generator. Based on https://github.com/msikma/pokesprite.
+
+## Java 
+
+- [prometheus/jmx_exporter](https://github.com/prometheus/jmx_exporter) - A process for exposing JMX Beans via HTTP for Prometheus consumption
 
 ## JavaScript 
 
@@ -174,6 +179,7 @@
 
 ## Vim Script 
 
+- [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [vv9k/vim-github-dark](https://github.com/vv9k/vim-github-dark) - A dark GitHub theme for Vim and NeoVim
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
