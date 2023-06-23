@@ -21,7 +21,6 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -76,6 +75,7 @@
 ## HTML 
 
 - [clessg/pokesprite](https://github.com/clessg/pokesprite) - Pokémon icon database and sprite sheet generator. Based on https://github.com/msikma/pokesprite.
+- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 
 ## Java 
 
@@ -90,6 +90,7 @@
 - [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code themes
 - [nordtheme/hyper](https://github.com/nordtheme/hyper) - An arctic, north-bluish clean and elegant Hyper theme plugin.
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [RyanFitzgerald/devfolio](https://github.com/RyanFitzgerald/devfolio) - A modern and production-ready personal portfolio + blog template built with GatsbyJs and TailwindCSS
@@ -140,10 +141,6 @@
 
 - [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
 
-## Scala 
-
-- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-
 ## Shell 
 
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
@@ -154,7 +151,6 @@
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
