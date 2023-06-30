@@ -22,6 +22,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -98,7 +99,6 @@
 
 ## Mustache 
 
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
 
 ## Others 
@@ -155,6 +155,10 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+
+## Smarty 
+
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Swift 
 
