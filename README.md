@@ -30,6 +30,7 @@
 
 ## C 
 
+- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 - [jclehner/nmrpflash](https://github.com/jclehner/nmrpflash) - Netgear Unbrick Utility
 
