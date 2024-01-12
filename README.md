@@ -144,6 +144,7 @@
 
 ## Shell 
 
+- [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 - [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
