@@ -116,6 +116,7 @@
 
 ## Python 
 
+- [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder](https://github.com/Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder) - Legilimens is a tool to help you find your last few missing collectibles in Hogwarts Legacy and finally get that 100% completion. Works with field guide pages, collection chests, demiguise statues, vi
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
