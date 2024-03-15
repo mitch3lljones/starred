@@ -21,6 +21,7 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Swift](#swift)
@@ -77,7 +78,6 @@
 ## HTML 
 
 - [clessg/pokesprite](https://github.com/clessg/pokesprite) - Pokémon icon database and sprite sheet generator. Based on https://github.com/msikma/pokesprite.
-- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 
 ## Java 
 
@@ -142,6 +142,10 @@
 ## Rust 
 
 - [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
+
+## Scala 
+
+- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 
 ## Shell 
 
