@@ -94,7 +94,7 @@
 - [nordtheme/hyper](https://github.com/nordtheme/hyper) - An arctic, north-bluish clean and elegant Hyper theme plugin.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
-- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being maintained)
+- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
 - [RyanFitzgerald/devfolio](https://github.com/RyanFitzgerald/devfolio) - A modern and production-ready personal portfolio + blog template built with GatsbyJs and TailwindCSS
 - [monovertex/ygorganizer](https://github.com/monovertex/ygorganizer) - Source for http://ygorganizer.com
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
@@ -179,7 +179,7 @@
 ## TypeScript 
 
 - [RMCob/homebridge-wyze-robovac](https://github.com/RMCob/homebridge-wyze-robovac) - This plug-in provides rudimentary control for a Wyze Robot Vacuum.
-- [Sunoo/homebridge-camera-ffmpeg](https://github.com/Sunoo/homebridge-camera-ffmpeg) - Homebridge Plugin Providing FFmpeg-based Camera Support
+- [homebridge-plugins/homebridge-camera-ffmpeg](https://github.com/homebridge-plugins/homebridge-camera-ffmpeg) - Homebridge Plugin Providing FFmpeg-based Camera Support
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [DHedgecock/radical-vscode](https://github.com/DHedgecock/radical-vscode) - A dark theme for radical hacking inspired by retro futuristic design.
