@@ -14,6 +14,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Mustache](#mustache)
 - [Others](#others)
 - [PowerShell](#powershell)
@@ -72,7 +73,7 @@
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
-- [linkedin/goavro](https://github.com/linkedin/goavro) - 
+- [linkedin/goavro](https://github.com/linkedin/goavro) - Goavro is a library that encodes and decodes Avro data.
 - [joncalhoun/algorithmswithgo.com](https://github.com/joncalhoun/algorithmswithgo.com) - Code for the Algorithms with Go course
 
 ## HTML 
@@ -99,6 +100,11 @@
 - [monovertex/ygorganizer](https://github.com/monovertex/ygorganizer) - Source for http://ygorganizer.com
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 
+## Jupyter Notebook 
+
+- [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
+- [biocore/American-Gut](https://github.com/biocore/American-Gut) - American Gut open-access data and IPython notebooks
+
 ## Mustache 
 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
@@ -116,6 +122,8 @@
 
 ## Python 
 
+- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [qubvel-org/segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) - Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.
 - [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder](https://github.com/Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder) - Legilimens is a tool to help you find your last few missing collectibles in Hogwarts Legacy and finally get that 100% completion. Works with field guide pages, collection chests, demiguise statues, vi
