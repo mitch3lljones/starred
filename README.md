@@ -165,6 +165,7 @@
 
 ## Shell 
 
+- [luizbizzio/pihole-https](https://github.com/luizbizzio/pihole-https) - 🔒 Enable HTTPS for Pi-hole with automatic SSL certificate generation, Tailscale DNS detection, and cross-platform compatibility for Windows, Linux, macOS, and Android devices.
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
