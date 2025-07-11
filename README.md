@@ -122,6 +122,7 @@
 
 ## Python 
 
+- [flintml/flintml](https://github.com/flintml/flintml) - One-click ML infrastructure for teams that just want to get sh*t done.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [amjith/fuzzyfinder](https://github.com/amjith/fuzzyfinder) - Fuzzy Finder implemented in Python
