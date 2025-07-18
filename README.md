@@ -122,6 +122,7 @@
 
 ## Python 
 
+- [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 - [flintml/flintml](https://github.com/flintml/flintml) - One-click ML infrastructure for teams that just want to get sh*t done.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -196,6 +197,7 @@
 
 ## TypeScript 
 
+- [wtlnetwork/muon](https://github.com/wtlnetwork/muon) - Steam Deck ad-hoc networking plugin for Decky.
 - [RMCob/homebridge-wyze-robovac](https://github.com/RMCob/homebridge-wyze-robovac) - This plug-in provides rudimentary control for a Wyze Robot Vacuum.
 - [homebridge-plugins/homebridge-camera-ffmpeg](https://github.com/homebridge-plugins/homebridge-camera-ffmpeg) - Homebridge Plugin Providing FFmpeg-based Camera Support
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
