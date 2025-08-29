@@ -202,7 +202,7 @@
 - [homebridge-plugins/homebridge-camera-ffmpeg](https://github.com/homebridge-plugins/homebridge-camera-ffmpeg) - Homebridge Plugin Providing FFmpeg-based Camera Support
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [DHedgecock/radical-vscode](https://github.com/DHedgecock/radical-vscode) - A dark theme for radical hacking inspired by retro futuristic design.
+- [dhedgecock/radical-vscode](https://github.com/dhedgecock/radical-vscode) - A dark theme for radical hacking inspired by retro futuristic design.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
 ## Vim Script 
